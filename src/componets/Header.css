@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+h1 {
+  color: #fff;
+}

@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main > img {
+  width: 250px;
+  height: 170px;
+  border-radius: 20px;
+}
+.main-movie {
+  width: 700px;
+  height: 170px;
+  background-color: antiquewhite;
+  display: flex;
+  gap: 20px;
+  margin: 0 auto;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 9px 9px 10px 0px rgba(34, 60, 80, 0.36);
+}
+.rating {
+  background-color: rgb(227, 165, 31);
+  color: aliceblue;
+  width: 100px;
+  padding: 3px 13px;
+  border-radius: 10px;
+  font-size: large;
+}
+.block-two h4 {
+  padding-bottom: 25px;
+}
+.block-two button {
+  margin-left: 20px;
+}
